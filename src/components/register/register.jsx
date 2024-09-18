@@ -56,7 +56,7 @@ const Register = () => {
   // Set up Pusher for real-time notifications
   React.useEffect(() => {
     // Initialize Pusher
-    const pusher = new Pusher("6b486187e408b11e5597", {
+    const pusher = new Pusher("06bf461b0363dd2512a9", {
       cluster: "ap2",
     });
 
